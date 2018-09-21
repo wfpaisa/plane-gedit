@@ -13,8 +13,8 @@ A beautiful theme for Gedit, more information in [Plane project](https://github.
 </p>
 
 ## Install
-1. Download in `~/home/felipe/.local/share/gedit/styles/plane-gedit.xml`
-2. Open: Gedit -> Preferences -> Font & Color | choose: Plane Gedit
+1. Download in `~/.local/share/gedit/styles/plane-dark.xml`
+2. Open: Gedit -> Preferences -> Font & Color | choose: Plane dark
 
 
 
